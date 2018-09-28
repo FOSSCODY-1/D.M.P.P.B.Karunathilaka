@@ -1,2 +1,3 @@
 # D.M.P.P.B.Karunathilaka
-[Product Name]
+[PlayAid]
+PlayAid is an audio and video player designed as a dekstop application.
